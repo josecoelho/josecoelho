@@ -23,3 +23,6 @@ I love solving complex problems with a wide array of languages and frameworks, b
 
 <a href="https://linkedin.com/in/josercoelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josercoelho" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2398842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2398842" height="30" width="40" /></a>
+
+
+[![José's Trophies](https://github-profile-trophy.vercel.app/?username=josecoelho&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
